@@ -1,0 +1,374 @@
+Identifier,Parent,ChildTree1,ChildTree1_Name,ChildTree2,ChildTree2_Name,Title,Category,SubCategory,Subset,Frequency,Unit,Currency,Discontinued
+IFCAOTPGOA11M,,"IFCAOTPGOM11M,IFCAOTPGOD11M,IFCAOTPGOB11M,IFCAOTPGOH11M",,,,Monthly on time performance at Metro Airports - Go Air,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPGOM11M,IFCAOTPGOA11M,,,,,Monthly on time performance of Go Air at Mumbai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPGOD11M,IFCAOTPGOA11M,,,,,Monthly on time performance of Go Air at Delhi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPGOB11M,IFCAOTPGOA11M,,,,,Monthly on time performance of Go Air at Banglore airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPGOH11M,IFCAOTPGOA11M,,,,,Monthly on time performance of Go Air at Hyderabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPINA11M,,"IFCAOTPINM11M,IFCAOTPIND11M,IFCAOTPINB11M,IFCAOTPINH11M,IFCAOTPINC11M,IFCAOTPINK11M,IFCAOTPINE11M,IFCAOTPING11M,IFCAOTPINI11M,IFCAOTPINL11M",,,,Monthly on time performance at Metro Airports - Indigo,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPINM11M,IFCAOTPINA11M,,,,,Monthly on time performance of Indigo at Mumbai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPIND11M,IFCAOTPINA11M,,,,,Monthly on time performance of Indigo at Delhi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPINB11M,IFCAOTPINA11M,,,,,Monthly on time performance of Indigo at Banglore airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPINH11M,IFCAOTPINA11M,,,,,Monthly on time performance of Indigo at Hyderabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPINC11M,IFCAOTPINA11M,,,,,Monthly on time performance of Indigo at Chennai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPINK11M,IFCAOTPINA11M,,,,,Monthly on time performance of Indigo at Kolkata airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPVSA11M,,"IFCAOTPVSM11M,IFCAOTPVSD11M,IFCAOTPVSB11M,IFCAOTPVSH11M",,,,Monthly on time performance at Metro Airports - Vistara,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPVSM11M,IFCAOTPVSA11M,,,,,Monthly on time performance of Vistara at Mumbai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPVSD11M,IFCAOTPVSA11M,,,,,Monthly on time performance of Vistara at Delhi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPVSB11M,IFCAOTPVSA11M,,,,,Monthly on time performance of Vistara at Banglore airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPVSH11M,IFCAOTPVSA11M,,,,,Monthly on time performance of Vistara at Hyderabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPAIA11M,,"IFCAOTPAIM11M,IFCAOTPAID11M,IFCAOTPAIB11M,IFCAOTPAIH11M,IFCAOTPAIC11M,IFCAOTPAIK11M,IFCAOTPAIE11M,IFCAOTPAIG11M,IFCAOTPAII11M,IFCAOTPAIL11M",,,,Monthly on time performance at Metro Airports - Air India,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAIM11M,IFCAOTPAIA11M,,,,,Monthly on time performance of Air India at Mumbai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAID11M,IFCAOTPAIA11M,,,,,Monthly on time performance of Air India at Delhi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAIB11M,IFCAOTPAIA11M,,,,,Monthly on time performance of Air India at Banglore airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAIH11M,IFCAOTPAIA11M,,,,,Monthly on time performance of Air India at Hyderabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAIC11M,IFCAOTPAIA11M,,,,,Monthly on time performance of Air India at Chennai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAIK11M,IFCAOTPAIA11M,,,,,Monthly on time performance of Air India at Kolkata airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPASA11M,,"IFCAOTPASM11M,IFCAOTPASD11M,IFCAOTPASB11M,IFCAOTPASH11M",,,,Monthly on time performance at Metro Airports - Air Asia,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPASM11M,IFCAOTPASA11M,,,,,Monthly on time performance of Air Asia at Mumbai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPASD11M,IFCAOTPASA11M,,,,,Monthly on time performance of Air Asia at Delhi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPASB11M,IFCAOTPASA11M,,,,,Monthly on time performance of Air Asia at Banglore airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPASH11M,IFCAOTPASA11M,,,,,Monthly on time performance of Air Asia at Hyderabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPSJA11M,,"IFCAOTPSJM11M,IFCAOTPSJD11M,IFCAOTPSJB11M,IFCAOTPSJH11M,IFCAOTPSJC11M,IFCAOTPSJK11M,IFCAOTPSJE11M,IFCAOTPSJG11M,IFCAOTPSJI11M",,,,Monthly on time performance at Metro Airports - SpiceJet,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPSJM11M,IFCAOTPSJA11M,,,,,Monthly on time performance of Spice Jet at Mumbai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPSJD11M,IFCAOTPSJA11M,,,,,Monthly on time performance of Spice Jet at Delhi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPSJB11M,IFCAOTPSJA11M,,,,,Monthly on time performance of Spice Jet at Banglore airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPSJH11M,IFCAOTPSJA11M,,,,,Monthly on time performance of Spice Jet at Hyderabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPSJC11M,IFCAOTPSJA11M,,,,,Monthly on time performance of Spice Jet at Chennai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPSJK11M,IFCAOTPSJA11M,,,,,Monthly on time performance of Spice Jet at Kolkata airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAAA11M,,"IFCAOTPAAM11M,IFCAOTPAAD11M,IFCAOTPAAB11M,IFCAOTPAAH11M,IFCAOTPAAC11M,IFCAOTPAAK11M,IFCAOTPAAE11M,IFCAOTPAAG11M,IFCAOTPAAI11M",,,,Monthly on time performance at Metro Airports - Alliance Air,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAAM11M,IFCAOTPAAA11M,,,,,Monthly on time performance of Alliance Air at Mumbai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAAD11M,IFCAOTPAAA11M,,,,,Monthly on time performance of Alliance Air at Delhi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAAB11M,IFCAOTPAAA11M,,,,,Monthly on time performance of Alliance Air at Banglore airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAAH11M,IFCAOTPAAA11M,,,,,Monthly on time performance of Alliance Air at Hyderabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAAC11M,IFCAOTPAAA11M,,,,,Monthly on time performance of Alliance Air at Chennai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAAK11M,IFCAOTPAAA11M,,,,,Monthly on time performance of Alliance Air at Kolkata airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKA11M,,"IFCAOTPAKM11M,IFCAOTPAKD11M,IFCAOTPAKB11M,IFCAOTPAKH11M,IFCAOTPAKC11M,IFCAOTPAKK11M,IFCAOTPAKE11M,IFCAOTPAKG11M,IFCAOTPAKI11M,IFCAOTPAKL11M",,,,Monthly on time performance at Metro Airports - Akasa Air,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKM11M,IFCAOTPAKA11M,,,,,Monthly on time performance of Akasa Air at Mumbai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKD11M,IFCAOTPAKA11M,,,,,Monthly on time performance of Akasa Air at Delhi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKB11M,IFCAOTPAKA11M,,,,,Monthly on time performance of Akasa Air at Banglore airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKH11M,IFCAOTPAKA11M,,,,,Monthly on time performance of Akasa Air at Hyderabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKC11M,IFCAOTPAKA11M,,,,,Monthly on time performance of Akasa Air at Chennai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKK11M,IFCAOTPAKA11M,,,,,Monthly on time performance of Akasa Air at Kolkata airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAXA11M,,"IFCAOTPAXM11M,IFCAOTPAXD11M,IFCAOTPAXB11M,IFCAOTPAXH11M",,,,Monthly on time performance at Metro Airports  - AIX Connect,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPAXM11M,IFCAOTPAXA11M,,,,,Monthly on time performance of AIX Connect at Mumbai airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPAXD11M,IFCAOTPAXA11M,,,,,Monthly on time performance of AIX Connect at Delhi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPAXB11M,IFCAOTPAXA11M,,,,,Monthly on time performance of AIX Connect at Banglore airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPAXH11M,IFCAOTPAXA11M,,,,,Monthly on time performance of AIX Connect at Hyderabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,Y
+IFCAOTPINE11M,IFCAOTPINA11M,,,,,Monthly on time performance of Indigo at Ahmedabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPING11M,IFCAOTPINA11M,,,,,Monthly on time performance of Indigo at Guwahati airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPINI11M,IFCAOTPINA11M,,,,,Monthly on time performance of Indigo at Kochi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPINL11M,IFCAOTPINA11M,,,,,Monthly on time performance of Indigo at Lucknow airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAIE11M,IFCAOTPAIA11M,,,,,Monthly on time performance of Air India at Ahmedabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAIG11M,IFCAOTPAIA11M,,,,,Monthly on time performance of Air India at Guwahati airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAII11M,IFCAOTPAIA11M,,,,,Monthly on time performance of Air India at Kochi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAIL11M,IFCAOTPAIA11M,,,,,Monthly on time performance of Air India at Lucknow airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPSJE11M,IFCAOTPSJA11M,,,,,Monthly on time performance of Spice Jet at Ahmedabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPSJG11M,IFCAOTPSJA11M,,,,,Monthly on time performance of Spice Jet at Guwahati airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPSJI11M,IFCAOTPSJA11M,,,,,Monthly on time performance of Spice Jet at Kochi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAAE11M,IFCAOTPAAA11M,,,,,Monthly on time performance of Alliance Air at Ahmedabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAAG11M,IFCAOTPAAA11M,,,,,Monthly on time performance of Alliance Air at Guwahati airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAAI11M,IFCAOTPAAA11M,,,,,Monthly on time performance of Alliance Air at Kochi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKE11M,IFCAOTPAKA11M,,,,,Monthly on time performance of Akasa Air at Ahmedabad airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKG11M,IFCAOTPAKA11M,,,,,Monthly on time performance of Akasa Air at Guwahati airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKI11M,IFCAOTPAKA11M,,,,,Monthly on time performance of Akasa Air at Kochi airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPAKL11M,IFCAOTPAKA11M,,,,,Monthly on time performance of Akasa Air at Lucknow airport,Civil Aviation,Airline Data,Domestic - Scheduled,Monthly,Percentage,NA,N
+IFCAOTPIDG11D,,,,,,Daily On Time Performance (%) - Indigo,Civil Aviation,Daily Data,Combined,Daily,Percentage,NA,N
+IFCAOTPAIR11D,,,,,,Daily On Time Performance (%) - Air India,Civil Aviation,Daily Data,Combined,Daily,Percentage,NA,N
+IFCAOTPSPJ11D,,,,,,Daily On Time Performance (%) - SpiceJet,Civil Aviation,Daily Data,Combined,Daily,Percentage,NA,N
+IFCAOTPVIS11D,,,,,,Daily On Time Performance (%) - Vistara,Civil Aviation,Daily Data,Combined,Daily,Percentage,NA,Y
+IFCAOTPAIX11D,,,,,,Daily On Time Performance (%) - AIX Connect,Civil Aviation,Daily Data,Combined,Daily,Percentage,NA,Y
+IFCAOTPALA11D,,,,,,Daily On Time Performance (%) - Alliance Air,Civil Aviation,Daily Data,Combined,Daily,Percentage,NA,N
+IFCAOTPAKA11D,,,,,,Daily On Time Performance (%) - Akasa Air,Civil Aviation,Daily Data,Combined,Daily,Percentage,NA,N
+IFCAOTPAXP11D,,,,,,Daily On Time Performance (%) - Air India Express ,Civil Aviation,Daily Data,Combined,Daily,Percentage,NA,N
+EXMTXRCRPQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Carpets (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDCRPQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Carpets (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRCHWQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Cashew (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDCHWQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Cashew (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRCPGQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Ceramic products & glassware (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDCPGQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Ceramic products & glassware (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRCEPQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Cereal preparations & Miscellaneous processed items (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDCEPQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Cereal preparations & Miscellaneous processed items (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRCOFQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Coffee (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDCOFQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Coffee (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRCYFQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Cotton Yarn/Fabs./made-ups,
+Handloom Products etc. (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDCYFQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Cotton Yarn/Fabs./made-ups,
+Handloom Products etc. (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRDAPQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Drugs & Pharmaceuticals (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDDAPQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Drugs & Pharmaceuticals (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRETRQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Electronic Goods (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDETRQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Electronic Goods (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRENGQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Engineering Goods (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDENGQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Engineering Goods (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRFAVQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Fruits & Vegetables (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDFAVQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Fruits & Vegetables (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRGAJQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Gems & Jewellery (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDGAJQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Gems & Jewellery (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRHDCQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Handicrafts excluding hand made carpet (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDHDCQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Handicrafts excluding hand made carpet (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRFEOQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Iron Ore (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDFEOQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Iron Ore (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRJMGQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Jute Manufacturings including Floor Covering (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDJMGQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Jute Manufacturings including Floor Covering (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRLLPQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Leather & leather products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDLLPQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Leather & leather products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRMYFQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Man-made Yarn/Fabs./made-ups etc. (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDMYFQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Man-made Yarn/Fabs./made-ups etc. (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRMRPQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Marine Products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDMRPQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Marine Products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRMDPQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Meat, dairy & poultry products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDMDPQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Meat, dairy & poultry products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRMCOQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Mica, Coal & Other Ores, Minerals including processed minerals (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDMCOQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Mica, Coal & Other Ores, Minerals including processed minerals (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXROMLQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Oil Meals (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDOMLQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Oil Meals (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXROSDQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Oil Seeds (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDOSDQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Oil Seeds (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXROICQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Organic & Inorganic Chemicals (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDOICQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Organic & Inorganic Chemicals (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXROCEQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Other cereals (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDOCEQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Other cereals (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXROTRQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Other Items (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDOTRQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Other Items (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRPOLQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Petroleum Products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDPOLQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Petroleum Products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRPALQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Plastic & Linoleum (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDPALQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Plastic & Linoleum (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRRMGQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Ready Made Garments of all Textiles (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDRMGQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Ready Made Garments of all Textiles (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRRICQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Rice (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDRICQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Rice (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRSPIQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Spices (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDSPIQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Spices (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRTEAQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Tea (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDTEAQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Tea (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRTOBQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports - Tobacco (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDTOBQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports - Tobacco (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRTOTQ11M,,"EXMTXRTEAQ11M,EXMTXRCOFQ11M,EXMTXRRICQ11M,EXMTXROCEQ11M,EXMTXRTOBQ11M,EXMTXRSPIQ11M,EXMTXRCHWQ11M,EXMTXROMLQ11M,EXMTXROSDQ11M,EXMTXRFAVQ11M,EXMTXRCEPQ11M,EXMTXRMRPQ11M,EXMTXRMDPQ11M,EXMTXRFEOQ11M,EXMTXRMCOQ11M,EXMTXRLLPQ11M,EXMTXRCPGQ11M,EXMTXRGAJQ11M,EXMTXRDAPQ11M,EXMTXROICQ11M,EXMTXRENGQ11M,EXMTXRETRQ11M,EXMTXRCYFQ11M,EXMTXRMYFQ11M,EXMTXRRMGQ11M,EXMTXRJMGQ11M,EXMTXRCRPQ11M,EXMTXRHDCQ11M,EXMTXRPOLQ11M,EXMTXRPALQ11M,EXMTXROTRQ11M",Sector Classification,EXMTXRXPTQ11M,Calculated Indicators,"Merchandise Exports - Total (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDTOTQ11M,,"EXMTXDTEAQ11M,EXMTXDCOFQ11M,EXMTXDRICQ11M,EXMTXDOCEQ11M,EXMTXDTOBQ11M,EXMTXDSPIQ11M,EXMTXDCHWQ11M,EXMTXDOMLQ11M,EXMTXDOSDQ11M,EXMTXDFAVQ11M,EXMTXDCEPQ11M,EXMTXDMRPQ11M,EXMTXDMDPQ11M,EXMTXDFEOQ11M,EXMTXDMCOQ11M,EXMTXDLLPQ11M,EXMTXDCPGQ11M,EXMTXDGAJQ11M,EXMTXDDAPQ11M,EXMTXDOICQ11M,EXMTXDENGQ11M,EXMTXDETRQ11M,EXMTXDCYFQ11M,EXMTXDMYFQ11M,EXMTXDRMGQ11M,EXMTXDJMGQ11M,EXMTXDCRPQ11M,EXMTXDHDCQ11M,EXMTXDPOLQ11M,EXMTXDPALQ11M,EXMTXDOTRQ11M",Sector Classification,EXMTXDXPTQ11M,Calculated Indicators,"Merchandise Exports - Total (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRXPTQ11M,EXMTXRTOTQ11M,,,,,"Merchandise Exports: Excluding Petroleum (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXDXPTQ11M,EXMTXDTOTQ11M,,,,,"Merchandise Exports: Excluding Petroleum (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDTECQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Tea (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDCOCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Coffee (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDRCCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Rice (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDOCCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Other cereals (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDTOCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Tobacco (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDSPCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Spices (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDCHCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Cashew (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDOMCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Oil Meals (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDOSCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Oil Seeds (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDFACQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Fruits & Vegetables (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDCECQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Cereal preparations & Miscellaneous processed items (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDMRCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Marine Products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDMDCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Meat, dairy & poultry products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDFECQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Iron Ore (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDMCCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Mica, Coal & Other Ores, Minerals
+including processed minerals (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDLLCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Leather & leather products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDCPCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Ceramic products & glassware (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDGACQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Gems & Jewellery (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDDACQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Drugs & Pharmaceuticals (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDCLCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Organic & Inorganic Chemicals (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDENCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Engineering Goods (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDETCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Electronic Goods (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDCYCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Cotton Yarn/Fabs./made-ups,
+Handloom Products etc. (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDMYCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Man-made Yarn/Fabs./made-ups etc. (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDRMCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Ready Made Garments of all Textiles (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDJMCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Jute Manufacturings including Floor Covering (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDCTCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Carpets (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDCRCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Handicrafts excluding hand made carpet (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDPOCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Petroleum Products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDPACQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Plastic & Linoleum (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDTTCQ11M,,"EXMTXDTECQ11M,EXMTXDCOCQ11M,EXMTXDRCCQ11M,EXMTXDOCCQ11M,EXMTXDTOCQ11M,EXMTXDSPCQ11M,EXMTXDCHCQ11M,EXMTXDOMCQ11M,EXMTXDOSCQ11M,EXMTXDFACQ11M,EXMTXDCECQ11M,EXMTXDMRCQ11M,EXMTXDMDCQ11M,EXMTXDFECQ11M,EXMTXDMCCQ11M,EXMTXDLLCQ11M,EXMTXDCPCQ11M,EXMTXDGACQ11M,EXMTXDDACQ11M,EXMTXDCLCQ11M,EXMTXDENCQ11M,EXMTXDETCQ11M,EXMTXDCYCQ11M,EXMTXDMYCQ11M,EXMTXDRMCQ11M,EXMTXDJMCQ11M,EXMTXDCTCQ11M,EXMTXDCRCQ11M,EXMTXDPOCQ11M,EXMTXDPACQ11M,EXMTXDOTCQ11M",Sector Classification,EXMTXDXPCQ11M,Calculated Indicators,"Merchandise Exports - Total (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDOTCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports - Other Items (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXDXPCQ11M,EXMTXDTTCQ11M,,,,,"Merchandise Exports: Excluding Petroleum (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTXRTECQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Tea (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRCOCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Coffee (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRRCCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Rice (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXROCCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Other cereals (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRTOCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Tobacco (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRSPCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Spices (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRCHCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Cashew (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXROMCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Oil Meals (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXROSCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Oil Seeds (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRFACQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Fruits & Vegetables (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRCECQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Cereal preparations & Miscellaneous processed items (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRMRCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Marine Products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRMDCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Meat, dairy & poultry products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRFECQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Iron Ore (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRMCCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Mica, Coal & Other Ores, Minerals including processed minerals (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRLLCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Leather & leather products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRCPCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Ceramic products & glassware (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRGACQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Gems & Jewellery (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRDACQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Drugs & Pharmaceuticals (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRCLCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Organic & Inorganic Chemicals (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRENCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Engineering Goods (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRETCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Electronic Goods (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRCYCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Cotton Yarn/Fabs./made-ups, Handloom Products etc. (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRMYCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Man-made Yarn/Fabs./made-ups etc. (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRRMCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Ready Made Garments of all Textiles (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRJMCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Jute Manufacturings including Floor Covering (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRCTCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Carpets (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRCRCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Handicrafts excluding hand made carpet (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRPOCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Petroleum Products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRPACQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Plastic & Linoleum (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRTTCQ11M,,"EXMTXRTECQ11M,EXMTXRCOCQ11M,EXMTXRRCCQ11M,EXMTXROCCQ11M,EXMTXRTOCQ11M,EXMTXRSPCQ11M,EXMTXRCHCQ11M,EXMTXROMCQ11M,EXMTXROSCQ11M,EXMTXRFACQ11M,EXMTXRCECQ11M,EXMTXRMRCQ11M,EXMTXRMDCQ11M,EXMTXRFECQ11M,EXMTXRMCCQ11M,EXMTXRLLCQ11M,EXMTXRCPCQ11M,EXMTXRGACQ11M,EXMTXRDACQ11M,EXMTXRCLCQ11M,EXMTXRENCQ11M,EXMTXRETCQ11M,EXMTXRCYCQ11M,EXMTXRMYCQ11M,EXMTXRRMCQ11M,EXMTXRJMCQ11M,EXMTXRCTCQ11M,EXMTXRCRCQ11M,EXMTXRPOCQ11M,EXMTXRPACQ11M,EXMTXROTCQ11M",Sector Classification,EXMTXRXPCQ11M,Calculated Indicators,"Merchandise Exports - Total (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXROTCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports - Other Items (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTXRXPCQ11M,EXMTXRTTCQ11M,,,,,"Merchandise Exports: Excluding Petroleum (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRLLPQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Artificial resins, plastic materials, etc. (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDLLPQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Artificial resins, plastic materials, etc. (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRCPGQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Chemical material & products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDCPGQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Chemical material & products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRFAVQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Coal, Coke & Briquettes, etc. (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDFAVQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Coal, Coke & Briquettes, etc. (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRTEAQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Cotton Raw & Waste (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDTEAQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Cotton Raw & Waste (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRMCOQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Dyeing/tanning/colouring materials (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDMCOQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Dyeing/tanning/colouring materials (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRCRPQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Electronic goods (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDCRPQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Electronic goods (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRCHWQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Fertilisers, Crude & manufactured (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDCHWQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Fertilisers, Crude & manufactured (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMROCEQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Fruits & Vegetables (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDOCEQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Fruits & Vegetables (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRPOLQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Gold (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDPOLQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Gold (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMROICQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Iron & Steel (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDOICQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Iron & Steel (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRMDPQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Leather & leather products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDMDPQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Leather & leather products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRETRQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Machine tools (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDETRQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Machine tools (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRCYFQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Machinery, electrical & non-electrical (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDCYFQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Machinery, electrical & non-electrical (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRHDCQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Medicinal & Pharmaceutical products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDHDCQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Medicinal & Pharmaceutical products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMROSDQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Metaliferrous ores & other minerals (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDOSDQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Metaliferrous ores & other minerals (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRGAJQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Newsprint (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDGAJQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Newsprint (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRENGQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Non-ferrous metals (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDENGQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Non-ferrous metals (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRFEOQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Organic & Inorganic Chemicals (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDFEOQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Organic & Inorganic Chemicals (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMROTRQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Other Items (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDOTRQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Other Items (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRDAPQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Pearls, precious & Semi-precious stones (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDDAPQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Pearls, precious & Semi-precious stones (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRCEPQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Petroleum, Crude & products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDCEPQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Petroleum, Crude & products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRJMGQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Professional instruments, Optical goods, etc. (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDJMGQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Professional instruments, Optical goods, etc. (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRRMGQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Project goods (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDRMGQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Project goods (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRTOBQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Pulp and Waste paper (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDTOBQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Pulp and Waste paper (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRRICQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Pulses (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDRICQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Pulses (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRPALQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Silver (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDPALQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Silver (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMROMLQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Sulphur & Unroasted Iron Pyrites (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDOMLQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Sulphur & Unroasted Iron Pyrites (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRSPIQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Textile yarn Fabric, made-up articles (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDSPIQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Textile yarn Fabric, made-up articles (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRTOTQ11M,,"EXMTMRTEAQ11M,EXMTMRCOFQ11M,EXMTMRRICQ11M,EXMTMROCEQ11M,EXMTMRTOBQ11M,EXMTMRSPIQ11M,EXMTMRCHWQ11M,EXMTMROMLQ11M,EXMTMROSDQ11M,EXMTMRFAVQ11M,EXMTMRCEPQ11M,EXMTMRMRPQ11M,EXMTMRMDPQ11M,EXMTMRFEOQ11M,EXMTMRMCOQ11M,EXMTMRLLPQ11M,EXMTMRCPGQ11M,EXMTMRGAJQ11M,EXMTMRDAPQ11M,EXMTMROICQ11M,EXMTMRENGQ11M,EXMTMRETRQ11M,EXMTMRCYFQ11M,EXMTMRMYFQ11M,EXMTMRRMGQ11M,EXMTMRJMGQ11M,EXMTMRCRPQ11M,EXMTMRHDCQ11M,EXMTMRPOLQ11M,EXMTMRPALQ11M,EXMTMROTRQ11M",Sector Classification,"EXMTMRXPTQ11M,EXMTMRXGSQ11M,EXMTMRXPGQ11M",Calculated Indicators,"Merchandise Imports - Total (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDTOTQ11M,,"EXMTMDTEAQ11M,EXMTMDCOFQ11M,EXMTMDRICQ11M,EXMTMDOCEQ11M,EXMTMDTOBQ11M,EXMTMDSPIQ11M,EXMTMDCHWQ11M,EXMTMDOMLQ11M,EXMTMDOSDQ11M,EXMTMDFAVQ11M,EXMTMDCEPQ11M,EXMTMDMRPQ11M,EXMTMDMDPQ11M,EXMTMDFEOQ11M,EXMTMDMCOQ11M,EXMTMDLLPQ11M,EXMTMDCPGQ11M,EXMTMDGAJQ11M,EXMTMDDAPQ11M,EXMTMDOICQ11M,EXMTMDENGQ11M,EXMTMDETRQ11M,EXMTMDCYFQ11M,EXMTMDMYFQ11M,EXMTMDRMGQ11M,EXMTMDJMGQ11M,EXMTMDCRPQ11M,EXMTMDHDCQ11M,EXMTMDPOLQ11M,EXMTMDPALQ11M,EXMTMDOTRQ11M",Sector Classification,"EXMTMDXPTQ11M,EXMTMDXGSQ11M,EXMTMDXPGQ11M",Calculated Indicators,"Merchandise Imports - Total (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRMYFQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Transport equipment (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDMYFQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Transport equipment (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRCOFQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Vegetable Oil (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDCOFQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Vegetable Oil (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRMRPQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports - Wood &  Wood products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDMRPQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports - Wood &  Wood products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRXGSQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports: Excluding Gold and Silver (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDXGSQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports: Excluding Gold and Silver (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRXPTQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports: Excluding Petroleum (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDXPTQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports: Excluding Petroleum (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRXPGQ11M,EXMTMRTOTQ11M,,,,,"Merchandise Imports: Excluding Petroleum, Gold and Silver (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMDXPGQ11M,EXMTMDTOTQ11M,,,,,"Merchandise Imports: Excluding Petroleum, Gold and Silver (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDTECQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Cotton Raw & Waste (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDCOCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Vegetable Oil (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDRCCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Pulses (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDOCCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Fruits & Vegetables (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDPPWQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Pulp and Waste paper (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDSPCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Textile yarn Fabric, made-up articles (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDCHCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Fertilisers, Crude & manufactured (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDOMCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Sulphur & Unroasted Iron Pyrites (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDOSCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Metaliferrous ores & other minerals (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDFACQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Coal, Coke & Briquettes, etc. (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDCECQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Petroleum, Crude & products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDMRCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Wood &  Wood products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDMDCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Leather & leather products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDFECQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Organic & Inorganic Chemicals (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDMCCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Dyeing/tanning/colouring materials (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDLLCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Artificial resins, plastic materials, etc. (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDCPCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Chemical material & products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDGACQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Newsprint (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDDACQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Pearls, precious & Semi-precious stones (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDIASQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Iron & Steel (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDENCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Non-ferrous metals (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDETCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Machine tools (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDCYCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Machinery, electrical & non-electrical (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDMYCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Transport equipment (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDRMCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Project goods (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDJMCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Professional instruments, Optical goods, etc. (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDCRCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Electronic goods (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDMPPQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Medicinal & Pharmaceutical products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDPOCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Gold (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDPACQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Silver (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDTOCQ11M,,"EXMTMDTECQ11M,EXMTMDCOCQ11M,EXMTMDRCCQ11M,EXMTMDOCCQ11M,EXMTMDPPWQ11M,EXMTMDSPCQ11M,EXMTMDCHCQ11M,EXMTMDOMCQ11M,EXMTMDOSCQ11M,EXMTMDFACQ11M,EXMTMDCECQ11M,EXMTMDMRCQ11M,EXMTMDMDCQ11M,EXMTMDFECQ11M,EXMTMDMCCQ11M,EXMTMDLLCQ11M,EXMTMDCPCQ11M,EXMTMDGACQ11M,EXMTMDDACQ11M,EXMTMDIASQ11M,EXMTMDENCQ11M,EXMTMDETCQ11M,EXMTMDCYCQ11M,EXMTMDMYCQ11M,EXMTMDRMCQ11M,EXMTMDJMCQ11M,EXMTMDCRCQ11M,EXMTMDMPPQ11M,EXMTMDPOCQ11M,EXMTMDPACQ11M,EXMTMDOTCQ11M",Sector Classification,"EXMTMDXOCQ11M,EXMTMDXGCQ11M,EXMTMDXPCQ11M",Calculated Indicators,"Merchandise Imports - Total (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDOTCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports - Other Items (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDXOCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports: Excluding Petroleum (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDXGCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports: Excluding Gold and Silver (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMDXPCQ11M,EXMTMDTOCQ11M,,,,,"Merchandise Imports: Excluding Petroleum, Gold and Silver (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTMRTECQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Cotton Raw & Waste (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRCOCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Vegetable Oil (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRRCCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Pulses (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMROCCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Fruits & Vegetables (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRPPWQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Pulp and Waste paper (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRSPCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Textile yarn Fabric, made-up articles (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRCHCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Fertilisers, Crude & manufactured (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMROMCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Sulphur & Unroasted Iron Pyrites (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMROSCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Metaliferrous ores & other minerals (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRFACQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Coal, Coke & Briquettes, etc. (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRCECQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Petroleum, Crude & products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRMRCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Wood &  Wood products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRMDCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Leather & leather products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRFECQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Organic & Inorganic Chemicals (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRMCCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Dyeing/tanning/colouring materials (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRLLCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Artificial resins, plastic materials, etc. (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRCPCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Chemical material & products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRGACQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Newsprint (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRDACQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Pearls, precious & Semi-precious stones (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRIASQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Iron & Steel (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRENCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Non-ferrous metals (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRETCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Machine tools (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRCYCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Machinery, electrical & non-electrical (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRMYCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Transport equipment (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRRMCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Project goods (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRJMCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Professional instruments, Optical goods, etc. (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRCRCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Electronic goods (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRMPPQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Medicinal & Pharmaceutical products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRPOCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Gold (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRPACQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Silver (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRTOCQ11M,,"EXMTMRTECQ11M,EXMTMRCOCQ11M,EXMTMRRCCQ11M,EXMTMROCCQ11M,EXMTMRPPWQ11M,EXMTMRSPCQ11M,EXMTMRCHCQ11M,EXMTMROMCQ11M,EXMTMROSCQ11M,EXMTMRFACQ11M,EXMTMRCECQ11M,EXMTMRMRCQ11M,EXMTMRMDCQ11M,EXMTMRFECQ11M,EXMTMRMCCQ11M,EXMTMRLLCQ11M,EXMTMRCPCQ11M,EXMTMRGACQ11M,EXMTMRDACQ11M,EXMTMRIASQ11M,EXMTMRENCQ11M,EXMTMRETCQ11M,EXMTMRCYCQ11M,EXMTMRMYCQ11M,EXMTMRRMCQ11M,EXMTMRJMCQ11M,EXMTMRCRCQ11M,EXMTMRMPPQ11M,EXMTMRPOCQ11M,EXMTMRPACQ11M,EXMTMROTCQ11M",Sector Classification,"EXMTMRXOCQ11M,EXMTMRXGCQ11M,EXMTMRXPCQ11M",Calculated Indicators,"Merchandise Imports - Total (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMROTCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports - Other Items (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRXOCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports: Excluding Petroleum (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRXGCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports: Excluding Gold and Silver (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTMRXPCQ11M,EXMTMRTOCQ11M,,,,,"Merchandise Imports: Excluding Petroleum, Gold and Silver (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTNRXPGQ11M,EXMTNRBALQ11M,,,,,"Merchandise Trade Balance - excl Gold and Net Petroleum Imports (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTNDXPGQ11M,EXMTNDBALQ11M,,,,,"Merchandise Trade Balance - excl Gold and Net Petroleum Imports (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTNRBXPQ11M,EXMTNRBALQ11M,,,,,"Merchandise Trade Balance - Excluding Petroleum Products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTNDBXPQ11M,EXMTNDBALQ11M,,,,,"Merchandise Trade Balance - Excluding Petroleum Products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTNRBLPQ11M,EXMTNRBALQ11M,,,,,"Merchandise Trade Balance - Petroleum Products (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTNDBLPQ11M,EXMTNDBALQ11M,,,,,"Merchandise Trade Balance - Petroleum Products (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTNRBALQ11M,,"EXMTNRBLPQ11M,EXMTNRBXPQ11M,EXMTNRXPGQ11M",,,,"Merchandise Trade Balance (Quick Estimate, Monthly, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTNDBALQ11M,,"EXMTNDBLPQ11M,EXMTNDBXPQ11M,EXMTNDXPGQ11M",,,,"Merchandise Trade Balance (Quick Estimate, Monthly, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTNDBACQ11M,,"EXMTNDBPCQ11M,EXMTNDXPCQ11M,EXMTNDXGCQ11M",,,,"Merchandise Trade Balance (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTNDBPCQ11M,EXMTNDBACQ11M,,,,,"Merchandise Trade Balance - Petroleum Products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTNDXPCQ11M,EXMTNDBACQ11M,,,,,"Merchandise Trade Balance - Excluding Petroleum Products (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTNDXGCQ11M,EXMTNDBACQ11M,,,,,"Merchandise Trade Balance - excl Gold and Net Petroleum Imports (Quick Estimate, Cumulative, US Dollar)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,US Dollar,USD,N
+EXMTNRBACQ11M,,"EXMTNRBPCQ11M,EXMTNRXPCQ11M,EXMTNRXGCQ11M",,,,"Merchandise Trade Balance (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTNRBPCQ11M,EXMTNRBACQ11M,,,,,"Merchandise Trade Balance - Petroleum Products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTNRXPCQ11M,EXMTNRBACQ11M,,,,,"Merchandise Trade Balance - Excluding Petroleum Products (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N
+EXMTNRXGCQ11M,EXMTNRBACQ11M,,,,,"Merchandise Trade Balance - excl Gold and Net Petroleum Imports (Quick Estimate, Cumulative, Rupees)",Foreign Trade,Merchandise Trade,Quick Estimates,Monthly,Rupees,INR,N

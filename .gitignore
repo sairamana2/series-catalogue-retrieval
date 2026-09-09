@@ -1,0 +1,16 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Temporary databases and vector caches
+*.tmp
+test_*.db
+test_*.npy
+test_*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+__MACOSX/

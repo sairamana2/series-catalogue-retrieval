@@ -1,0 +1,197 @@
+{
+  "case_1": {
+    "query": "IndiGo on-time performance at Delhi",
+    "expected": "Exactly one record: IFCAOTPIND11M",
+    "actual": [
+      "IFCAOTPIND11M"
+    ],
+    "passed": true,
+    "details": {
+      "Identifier": "IFCAOTPIND11M",
+      "Title": "Monthly on time performance of Indigo at Delhi airport",
+      "Category": "Civil Aviation",
+      "SubCategory": "Airline Data",
+      "Subset": "Domestic - Scheduled",
+      "Frequency": "Monthly",
+      "Unit": "Percentage",
+      "Currency": "NA",
+      "Discontinued": "N",
+      "relevance_score": 7.7157,
+      "matched_reason": "airline:Indigo, airport:Delhi, metric:punctuality",
+      "ranking_method": "hybrid"
+    }
+  },
+  "case_2": {
+    "query": "monthly cashew exports in dollars",
+    "expected": "EXMTXDCHWQ11M ranked first among cashew records",
+    "actual_top": "EXMTXDCHWQ11M",
+    "actual_ids": [
+      "EXMTXDCHWQ11M",
+      "EXMTXDCHCQ11M",
+      "EXMTXRCHWQ11M",
+      "EXMTXRCHCQ11M"
+    ],
+    "passed": true,
+    "cashew_ranking": [
+      {
+        "id": "EXMTXDCHWQ11M",
+        "score": 11.256,
+        "title": "Merchandise Exports - Cashew (Quick Estimate, Monthly, US Dollar)"
+      },
+      {
+        "id": "EXMTXDCHCQ11M",
+        "score": 8.252,
+        "title": "Merchandise Exports - Cashew (Quick Estimate, Cumulative, US Dollar)"
+      },
+      {
+        "id": "EXMTXRCHWQ11M",
+        "score": 5.7059,
+        "title": "Merchandise Exports - Cashew (Quick Estimate, Monthly, Rupees)"
+      },
+      {
+        "id": "EXMTXRCHCQ11M",
+        "score": 2.7029,
+        "title": "Merchandise Exports - Cashew (Quick Estimate, Cumulative, Rupees)"
+      }
+    ]
+  },
+  "case_3": {
+    "query": "IndiGo punctuality",
+    "expected": "All 12 IndiGo on-time records in deterministic, defendable order",
+    "actual_count": 12,
+    "actual_order": [
+      "IFCAOTPINA11M",
+      "IFCAOTPINE11M",
+      "IFCAOTPINH11M",
+      "IFCAOTPINK11M",
+      "IFCAOTPING11M",
+      "IFCAOTPINL11M",
+      "IFCAOTPINI11M",
+      "IFCAOTPINC11M",
+      "IFCAOTPINB11M",
+      "IFCAOTPINM11M",
+      "IFCAOTPIND11M",
+      "IFCAOTPIDG11D"
+    ],
+    "passed": true,
+    "order_details": [
+      {
+        "rank": 1,
+        "id": "IFCAOTPINA11M",
+        "title": "Monthly on time performance at Metro Airports - Indigo",
+        "score": 4.6504
+      },
+      {
+        "rank": 2,
+        "id": "IFCAOTPINE11M",
+        "title": "Monthly on time performance of Indigo at Ahmedabad airport",
+        "score": 4.3568
+      },
+      {
+        "rank": 3,
+        "id": "IFCAOTPINH11M",
+        "title": "Monthly on time performance of Indigo at Hyderabad airport",
+        "score": 4.3525
+      },
+      {
+        "rank": 4,
+        "id": "IFCAOTPINK11M",
+        "title": "Monthly on time performance of Indigo at Kolkata airport",
+        "score": 4.3517
+      },
+      {
+        "rank": 5,
+        "id": "IFCAOTPING11M",
+        "title": "Monthly on time performance of Indigo at Guwahati airport",
+        "score": 4.3508
+      },
+      {
+        "rank": 6,
+        "id": "IFCAOTPINL11M",
+        "title": "Monthly on time performance of Indigo at Lucknow airport",
+        "score": 4.3503
+      },
+      {
+        "rank": 7,
+        "id": "IFCAOTPINI11M",
+        "title": "Monthly on time performance of Indigo at Kochi airport",
+        "score": 4.3484
+      },
+      {
+        "rank": 8,
+        "id": "IFCAOTPINC11M",
+        "title": "Monthly on time performance of Indigo at Chennai airport",
+        "score": 4.3476
+      },
+      {
+        "rank": 9,
+        "id": "IFCAOTPINB11M",
+        "title": "Monthly on time performance of Indigo at Banglore airport",
+        "score": 4.3463
+      },
+      {
+        "rank": 10,
+        "id": "IFCAOTPINM11M",
+        "title": "Monthly on time performance of Indigo at Mumbai airport",
+        "score": 4.3423
+      },
+      {
+        "rank": 11,
+        "id": "IFCAOTPIND11M",
+        "title": "Monthly on time performance of Indigo at Delhi airport",
+        "score": 4.3394
+      },
+      {
+        "rank": 12,
+        "id": "IFCAOTPIDG11D",
+        "title": "Daily On Time Performance (%) - Indigo",
+        "score": 4.1835
+      }
+    ]
+  },
+  "case_4": {
+    "query": "how were flights in December?",
+    "expected": "Civil Aviation on-time performance series; metadata vs observation distinction",
+    "actual_count": 10,
+    "actual_top": [
+      "IFCAOTPIDG11D",
+      "IFCAOTPSPJ11D",
+      "IFCAOTPAIR11D"
+    ],
+    "passed": true,
+    "top_records": [
+      {
+        "id": "IFCAOTPIDG11D",
+        "title": "Daily On Time Performance (%) - Indigo",
+        "score": 0.3891
+      },
+      {
+        "id": "IFCAOTPSPJ11D",
+        "title": "Daily On Time Performance (%) - SpiceJet",
+        "score": 0.3891
+      },
+      {
+        "id": "IFCAOTPAIR11D",
+        "title": "Daily On Time Performance (%) - Air India",
+        "score": 0.3296
+      },
+      {
+        "id": "IFCAOTPAKA11D",
+        "title": "Daily On Time Performance (%) - Akasa Air",
+        "score": 0.3296
+      },
+      {
+        "id": "IFCAOTPALA11D",
+        "title": "Daily On Time Performance (%) - Alliance Air",
+        "score": 0.3296
+      }
+    ]
+  },
+  "case_5": {
+    "query": "Chennai cargo tonnage",
+    "expected": "Zero records returned (no cargo tonnage exists in catalogue)",
+    "actual_count": 0,
+    "passed": true,
+    "returned": []
+  }
+}
