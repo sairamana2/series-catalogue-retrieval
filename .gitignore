@@ -14,3 +14,5 @@ test_*.json
 .DS_Store
 Thumbs.db
 __MACOSX/
+
+submission.zip
